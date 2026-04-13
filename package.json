@@ -1,0 +1,22 @@
+{
+  "name": "code-promo-photobox",
+  "version": "1.0.0",
+  "description": "Recuperation automatique de codes promo Photobox depuis shopilo.fr",
+  "main": "index.js",
+  "keywords": [
+    "code-promo",
+    "code-promo-photobox",
+    "bon-de-reduction-photobox",
+    "coupon-photobox",
+    "reductions",
+    "shopilo",
+    "coupons"
+  ],
+  "author": "shopilo-fr",
+  "license": "MIT",
+  "homepage": "https://shopilo.fr/reductions/photobox.fr",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-fr/code-promo-photobox.git"
+  }
+}
